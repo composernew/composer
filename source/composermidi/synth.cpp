@@ -1,4 +1,4 @@
-#include <composer/synth.h>
+#include <composermidi/synth.h>
 
 namespace composer {
 

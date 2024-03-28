@@ -1,5 +1,5 @@
-#include <composer/synth.h>
-#include <composer/midi_stream.h>
+#include <composermidi/synth.h>
+#include <composermidi/midi_stream.h>
 #include <iostream>
 #include <MidiFile.h>
 
