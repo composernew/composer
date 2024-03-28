@@ -1,5 +1,5 @@
 #include <benchmark/benchmark.h>
-#include <composer/melody.h>
+#include <composerlib/melody.h>
 #include <vector>
 #include <algorithm>
 

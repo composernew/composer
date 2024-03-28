@@ -1,5 +1,5 @@
 add_executable(example_audio audio.cpp)
-target_link_libraries(example_audio PRIVATE composerlib)
+target_link_libraries(example_audio PRIVATE composermidi)
 
-add_executable(example_optimizer optimizer.cpp)
-target_link_libraries(example_optimizer PRIVATE composerlib)
+add_executable(example_my_optimizer my_optimizer.cpp)
+target_link_libraries(example_my_optimizer PRIVATE composermidi)

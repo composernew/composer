@@ -28,7 +28,7 @@ set(ELEMENTS_APP_TITLE "Composer")
 set(ELEMENTS_APP_COPYRIGHT "Copyright (c) 2020")
 set(ELEMENTS_APP_ID "com.composer.composer")
 set(ELEMENTS_APP_VERSION "0.1")
-set(ELEMENTS_APP_DEPENDENCIES composerlib)
+set(ELEMENTS_APP_DEPENDENCIES composer)
 
 set(ELEMENTS_RESOURCES
         ${ELEMENTS_ROOT}/resources/fonts/elements_basic.ttf

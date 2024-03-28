@@ -1,4 +1,4 @@
-#include <composer/synth.h>
+#include <composermidi/synth.h>
 #include <q/support/notes.hpp>
 
 using cycfi::q::literals::operator""_ms;

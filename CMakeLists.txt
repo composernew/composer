@@ -71,4 +71,4 @@ endif()
 #######################################################
 ### Standalone                                      ###
 #######################################################
-add_subdirectory(standalone)
+#add_subdirectory(standalone)

@@ -1,7 +1,7 @@
 #define CATCH_CONFIG_MAIN
 
 #include <catch2/catch.hpp>
-#include <composer/midi_stream.h>
+#include <composermidi/midi_stream.h>
 #include <MidiFile.h>
 
 using cycfi::q::literals::operator""_ms;

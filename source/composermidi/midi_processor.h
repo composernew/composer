@@ -6,7 +6,7 @@
 #ifndef COMPOSER_MIDI_PROCESSOR_H
 #define COMPOSER_MIDI_PROCESSOR_H
 
-#include <composer/synth.h>
+#include <composermidi/synth.h>
 #include <q/support/midi.hpp>
 
 namespace composer {
